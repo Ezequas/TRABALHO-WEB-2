@@ -1,0 +1,57 @@
+body {
+    background-color: beige;
+}
+
+.cabe {
+    background-color: aqua;
+    color: black;
+    height: 25px;
+    border: 2px solid black;
+}
+
+.inicio {
+    background-color: brown;
+    display: flex;
+    gap: 25px;
+    height: 150px;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-left: 220px;
+    flex-direction: row;
+    border: 2px solid black;
+}
+
+.item {
+    background-color: rgb(0, 255, 255);
+    width: 390px;
+    height: 25px;
+    border-radius: 5%;
+    margin-top: 2%;
+    border: 2px solid black;
+}
+
+.item2 {
+  display: flex;
+    background-color: rgb(0, 255, 4);
+    width: 220px;
+    height: 25px;
+    border-radius: 5%;
+    margin-top: 2%;
+    flex-wrap: wrap;
+    border: 2px solid black;
+}
+
+.flex {
+    background-color: azure;
+    position: fixed;
+    width: 210px;
+    height: 150px;
+    border: 2px solid black;
+}
+
+.pe {
+    background-color: black;
+    color: azure;
+    height: 25px;
+    border: 2px solid black;
+}
